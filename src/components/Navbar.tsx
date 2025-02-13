@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           <a href="/" className="flex items-center">
           <img
-  src="/aura-logo.png"
+  src="./aura-logo.png"
   alt="Aura Logo"
   style={{ height: '100px', width: 'auto' }} // Ajustez la hauteur et la largeur selon vos besoins
 />
